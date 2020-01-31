@@ -1,0 +1,12 @@
+A stage can have 10 room : 0-9.
+The 0 level contain the stair to go up.
+The 9 level contain the stair to go down.
+Exept for the 0 level who is the first create, the others are made inn a random
+order.
+
+A room part can be :
+
+0: an unreachable place
+1: a reachable place
+2: a wall
+3 a door
