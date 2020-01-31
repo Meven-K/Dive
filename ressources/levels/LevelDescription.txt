@@ -1,0 +1,6 @@
+A level part can be :
+
+0: an unreachable place
+1: a reachable place
+2: a wall
+3 a door
